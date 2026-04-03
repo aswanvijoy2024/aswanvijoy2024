@@ -78,8 +78,3 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact
-<p align="center">
-💡 Passionate about Networking, Cloud & Cybersecurity 🚀  
-</p>
