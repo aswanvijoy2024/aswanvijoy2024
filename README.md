@@ -78,3 +78,6 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/aswanvijoy2024/aswanvijoy2024/blob/main/dino.gif?raw=true" alt="Dino Run Animation" width="900" height="125">
+</p>
