@@ -12,8 +12,6 @@
 
 ---
 
-##
-
 ![GIF](https://github.com/aswanvijoy2024/aswanvijoy2024/blob/d848a215aba13d8db8607a95bd954808042b5721/spaceshooter.gif)
 
 ---
