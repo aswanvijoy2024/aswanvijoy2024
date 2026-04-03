@@ -1,13 +1,13 @@
 # 🚀 Aswan Vijoy
 
-💻 Aspiring System Engineer | 🌐 Networking Enthusiast | 🔐 Cybersecurity Learner  
+💻 Aspiring System Engineer | 🌐 Networking Enthusiast | 🔐 Cybersecurity Learner | ☁️ Cloud Learner  
 
 ---
 
 ## 👋 About Me
 - 🎓 BSc Computer Science graduate (Calicut University)  
-- 🌱 Currently learning: Advanced Networking & System Administration  
-- 💡 Interested in: IT Support, Networking & Cybersecurity  
+- 🌱 Currently learning: Advanced Networking, System Administration & Cloud  
+- 💡 Interested in: IT Support, Networking, Cloud & Cybersecurity  
 - 📍 From: Wadakanchery, Thrissur  
 - 🤫 I am a silent person who enjoys solving technical problems  
 
@@ -23,6 +23,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### ☁️ Cloud
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🌐 Networking & Certifications
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -56,4 +59,4 @@
 ---
 
 ## ✨ Fun Fact
-> Passionate about networking, system troubleshooting, and cybersecurity 🚀
+> Passionate about networking, cloud, system troubleshooting, and cybersecurity 🚀
