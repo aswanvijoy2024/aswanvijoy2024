@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/aswanvijoy2024/aswanvijoy2024/blob/main/hacker.gif?raw=true" alt="Hacker GIF">
+  <img src="https://github.com/aswanvijoy2024/aswanvijoy2024/blob/main/letscode.gif?raw=true" alt="Let's Code Animation"  width="300">
 </p>
 
 ---
