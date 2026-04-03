@@ -1,16 +1,28 @@
-## Hi there 👋
+🚀 Your Name
 
-<!--
-**aswanvijoy2024/aswanvijoy2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring System Engineer | 🌐 Networking Enthusiast | ⚛️ React Developer
 
-Here are some ideas to get you started:
+👋 About Me
+🎓 BSc Computer Science graduate (Calicut University)
+🌱 Currently learning: Networking, System Administration
+💡 Interested in: Web Development & IT Infrastructure
+📍 From: Wadakanchery, Thrissur
+🛠️ Languages & Tools
+💻 Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Development
+
+⚙️ Tools & Technologies
+
+📂 Projects
+🎬 Movie Review App (React + Node.js)
+🌐 Crowdfunding Web App
+🔐 Authentication System (Login/Signup)
+📊 GitHub Stats
+
+📫 Connect With Me
+📧 Email: your@email.com
+💼 LinkedIn: https://linkedin.com/in/yourprofile
+✨ Fun Fact
+
+I’m a silent person who loves solving technical problems 😄
