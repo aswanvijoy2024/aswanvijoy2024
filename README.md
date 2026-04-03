@@ -1,41 +1,46 @@
 # 🚀 Aswan Vijoy
 
-💻 Aspiring System Engineer | 🌐 Networking Enthusiast | ⚛️ React Developer  
+💻 Aspiring System Engineer | 🌐 Networking Enthusiast | 🔐 Cybersecurity Learner  
 
 ---
 
 ## 👋 About Me
 - 🎓 BSc Computer Science graduate (Calicut University)  
-- 🌱 Currently learning: Networking, System Administration  
-- 💡 Interested in: Web Development & IT Infrastructure  
+- 🌱 Currently learning: Advanced Networking & System Administration  
+- 💡 Interested in: IT Support, Networking & Cybersecurity  
 - 📍 From: Wadakanchery, Thrissur  
 - 🤫 I am a silent person who enjoys solving technical problems  
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Tools
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⚙️ Systems & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🌐 Networking & Certifications
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MCSE](https://img.shields.io/badge/MCSE-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
+
+### 🔐 Cybersecurity Tools
+![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
 ## 📂 Projects
-- 🎬 Movie Review App (React + Node.js)  
+- 🎬 Movie Review App  
 - 🌐 Crowdfunding Web App  
-- 🔐 Authentication System (Login/Signup)  
+- 🔐 Login & Signup System  
 
 ---
 
@@ -45,10 +50,10 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: aswanvijoy@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/aswan-vijoy  
 
 ---
 
 ## ✨ Fun Fact
-> I love networking and building real-world applications 🚀
+> Passionate about networking, system troubleshooting, and cybersecurity 🚀
