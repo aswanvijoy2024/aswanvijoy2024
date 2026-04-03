@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswan Vijoy</h1>
-<h3 align="center">💻 System Engineer Aspirant | 🌐 Networking | 🔐 Cybersecurity | ☁️ Cloud</h3>
+<h3 align="center">🌐 Networking | 🔐 Cybersecurity | ☁️ Cloud</h3>
 
 ---
 <p align="center">
