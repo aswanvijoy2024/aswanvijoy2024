@@ -19,10 +19,6 @@
 
 ---
 
-<p align="center">
-  <img src="./example.gif" width="80%" />
-</p>
-
 ---
 
 ## 🚀 Skills & Tools
