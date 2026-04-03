@@ -2,17 +2,16 @@
 <h3 align="center">💻 System Engineer Aspirant | 🌐 Networking | 🔐 Cybersecurity | ☁️ Cloud</h3>
 
 ---
-
+<p align="center">
+  <img src="https://github.com/aswanvijoy2024/aswanvijoy2024/blob/main/hacker.gif?raw=true" alt="Hacker GIF">
+</p>
+---
 ## 👨‍💻 About Me
 - 🎓 BSc Computer Science graduate (Calicut University)  
 - 🌱 Learning: Networking, System Administration & Cloud (Azure)  
 - 💡 Interested in IT Support, Networking & Cybersecurity  
 - 📍 Wadakanchery, Thrissur  
 - 🤫 Silent person who loves solving technical problems  
-
----
-
-![GIF](https://github.com/aswanvijoy2024/aswanvijoy2024/blob/d848a215aba13d8db8607a95bd954808042b5721/spaceshooter.gif)
 
 ---
 
