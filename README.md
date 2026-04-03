@@ -73,6 +73,9 @@
   <a href="https://x.com/AswanVijoy">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/a_s_w_a_n__v_i_j_o_y____" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40">
+ </a>
 </p>
 
 ---
