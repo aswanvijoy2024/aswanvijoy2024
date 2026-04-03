@@ -60,6 +60,7 @@
 ## 📫 Connect With Me
 - 📧 Email: aswanvijoy@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/aswan-vijoy  
+- 🐦 Twitter (X): https://x.com/AswanVijoy  
 
 ---
 
