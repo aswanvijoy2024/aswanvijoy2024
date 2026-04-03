@@ -70,7 +70,7 @@
 
 ## 📊 GitHub Stats
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aswanvijoy2024?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
- [![GitHub Streak](https://streak-stats.demolab.com?user=aswanvijoy2024&theme=dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=aswanvijoy2024&theme=dark&hide_border=true&card_width=450)](https://git.io/streak-stats)
 
 
 ---
