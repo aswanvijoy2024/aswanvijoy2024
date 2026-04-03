@@ -1,68 +1,82 @@
-# 🚀 Aswan Vijoy
-
-💻 Aspiring System Engineer | 🌐 Networking Enthusiast | 🔐 Cybersecurity Learner | ☁️ Cloud Learner  
+<h1 align="center">Hi 👋, I'm Aswan Vijoy</h1>
+<h3 align="center">💻 System Engineer Aspirant | 🌐 Networking | 🔐 Cybersecurity | ☁️ Cloud</h3>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 - 🎓 BSc Computer Science graduate (Calicut University)  
-- 🌱 Currently learning: Advanced Networking, System Administration & Cloud  
-- 💡 Interested in: IT Support, Networking, Cloud & Cybersecurity  
-- 📍 From: Wadakanchery, Thrissur  
-- 🤫 I am a silent person who enjoys solving technical problems  
+- 🌱 Learning: Networking, System Administration & Cloud (Azure)  
+- 💡 Interested in IT Support, Networking & Cybersecurity  
+- 📍 Wadakanchery, Thrissur  
+- 🤫 Silent person who loves solving technical problems  
 
 ---
 
-## 🎮
-![Banner](./example.gif)
+<p align="center">
+  <img src="./example.gif" width="80%" />
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 Skills & Tools
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-### ⚙️ Systems & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### ☁️ Cloud
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### ⚙️ Systems & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=linux,azure,windows" />
+</p>
 
 ### 🌐 Networking & Certifications
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![MCSE](https://img.shields.io/badge/MCSE-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCSE-0078D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
 
-### 🔐 Cybersecurity Tools
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+### 🔐 Cybersecurity
+<p>
+<img src="https://skillicons.dev/icons?i=kali,linux" />
+<img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📂 Projects
 - 🎬 Movie Review App  
 - 🌐 Crowdfunding Web App  
-- 🔐 Login & Signup System  
+- 🔐 Authentication System  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: aswanvijoy@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/aswan-vijoy  
-- 🐦 Twitter (X): https://x.com/AswanVijoy  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:aswanvijoy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aswan-vijoy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AswanVijoy">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ✨ Fun Fact
-> Passionate about networking, cloud, system troubleshooting, and cybersecurity 🚀
+## ⚡ Fun Fact
+<p align="center">
+💡 Passionate about Networking, Cloud & Cybersecurity 🚀  
+</p>
