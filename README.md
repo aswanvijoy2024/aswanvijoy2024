@@ -13,6 +13,11 @@
 
 ---
 
+## 🎮
+![Banner](./example.gif)
+
+---
+
 ## 🛠️ Skills & Tools
 
 ### 🌐 Web Technologies
