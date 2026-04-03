@@ -21,8 +21,8 @@
 📊 GitHub Stats
 
 📫 Connect With Me
-📧 Email: your@email.com
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+📧 Email: aswanvijoy@email.com
+💼 LinkedIn: https://linkedin.com/in/aswanvijoy2024
 ✨ Fun Fact
 
 I’m a silent person who loves solving technical problems 😄
