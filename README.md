@@ -52,16 +52,13 @@
 ---
 
 ## 📂 Projects
-- 🎬 Movie Review App  
-- 🌐 Crowdfunding Web App  
-- 🔐 Authentication System  
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswanvijoy2024&show_icons=true&theme=tokyonight" />
-</p>
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aswanvijoy2024?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
+
 
 ---
 
@@ -84,5 +81,3 @@
 <p align="center">
 💡 Passionate about Networking, Cloud & Cybersecurity 🚀  
 </p>
-
-
