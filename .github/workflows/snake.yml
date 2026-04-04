@@ -21,13 +21,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: aswanvijoy2024
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=black&color_dots=#FFFFFF,#E0E0E0,#C0C0C0,#A9A9A9,#808080
-            dist/github-contribution-grid-snake-dark.svg?color_snake=black&color_dots=#FFFFFF,#E0E0E0,#C0C0C0,#A9A9A9,#808080
-
+  uses: Platane/snk@v3
+  with:
+    github_user_name: aswanvijoy2024
+    outputs: |
+      dist/github-contribution-grid-snake.svg?color_snake=404040&color_dots=FFFFFF,E0E0E0,C0C0C0,A9A9A9,808080
+      dist/github-contribution-grid-snake-dark.svg?color_snake=404040&color_dots=FFFFFF,E0E0E0,C0C0C0,A9A9A9,808080
+      
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
