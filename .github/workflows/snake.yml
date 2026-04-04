@@ -1,2 +1,38 @@
 
-hi
+name: GitHub Snake Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AswaniVijoy
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=white&color_dots=#0D1117,#0a1628,#0d2149,#1a3a7a,#1e4db7
+            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#0D1117,#0a1628,#0d2149,#1a3a7a,#1e4db7
+
+      - name: Push snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
