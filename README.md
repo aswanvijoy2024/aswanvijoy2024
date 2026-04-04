@@ -1,15 +1,19 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:106016,100:0D1117&height=200&section=header&text=I%20am%20Aswan%20Vijoy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%8C%90%20Networking%20%7C%20%F0%9F%94%90%20Cybersecurity%20%7C%20%E2%98%81%EF%B8%8F%20Cloud&descAlignY=58&descSize=20&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FFFFFF,100:FFFFFF&height=200&section=header&text=I%20am%20Aswan%20Vijoy&fontSize=60&fontColor=000000&fontAlignY=38&desc=%F0%9F%8C%90%20Networking%20%7C%20%F0%9F%94%90%20Cybersecurity%20%7C%20%E2%98%81%EF%B8%8F%20Cloud&descAlignY=58&descSize=20&animation=fadeIn" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=106016&center=true&vCenter=true&random=false&width=700&lines=Networking+%7C+Cybersecurity+%7C+Cloud+Computing;Languages%3A+HTML+%7C+CSS+%7C+C+%7C+C%2B%2B;Tools%3A+Wireshark+%7C+Nmap+%7C+Burp+Suite+%7C+Nessus;Cloud%3A+Azure;Linux+Administration;Building+Secure+and+Scalable+Systems+%F0%9F%94%92" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=808080&center=true&vCenter=true&random=false&width=700&lines=Networking+%7C+Cybersecurity+%7C+Cloud+Computing;Languages%3A+HTML+%7C+CSS+%7C+C+%7C+C%2B%2B;Tools%3A+Wireshark+%7C+Nmap+%7C+Burp+Suite+%7C+Nessus;Cloud%3A+Azure;Linux+Administration;Building+Secure+and+Scalable+Systems+%F0%9F%94%92" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aswanvijoy2024&label=Profile%20Views&color=106016&style=for-the-badge)](https://github.com/aswanvijoy2024)
-[![GitHub Followers](https://img.shields.io/github/followers/aswanvijoy2024?label=Followers&style=for-the-badge&color=106016&labelColor=0D1117)](https://github.com/aswanvijoy2024)
+[![Profile Views](https://komarev.com/ghpvc/?username=aswanvijoy2024&label=Profile%20Views&color=000000&style=for-the-badge)](https://github.com/aswanvijoy2024)
+[![GitHub Followers](https://img.shields.io/github/followers/aswanvijoy2024?label=Followers&style=for-the-badge&color=000000&labelColor=FFFFFF)](https://github.com/aswanvijoy2024)
 
 </div>
+
+
+
 
 ---
 
